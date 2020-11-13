@@ -1,6 +1,7 @@
 *.class
 *.log
 *.iml
+.classpath
 classes
-*.idea
-target/
+.idea
+target
